@@ -1,40 +1,69 @@
-🌸 ようこそ、SonyaのGitHubへ！ 🌸  
-*(Welcome to Sonya’s GitHub!)*
-
-✨ はじめまして！私は **Sonya** — 女の子プログラマー 🎀  
-JavaScript 🍵 | JSON 🍡 | Python 🐍 | Swift 🍎  
-コードを書くのが大好き！猫と抹茶と一緒に 💖
-
----
-
-🎀 **今、作っているもの**  
-▫️ 次のプロジェクト： ??? (秘密です～ ✨)  
-▫️ 毎日少しずつ、コードを書いています 📚
-
----
-
-💌 **Imran-sanへ**  
-*「私のコードを読んでくれてありがとう！  
-一緒に学んで、成長しましょうね～ 🌸」*
-
----
-
-🌸 **好きなもの**  
-・アニメとゲーム 🎮  
-・桜と猫 🐱  
-・夜のコーディングタイム 🌙  
-・Imranと一緒にバグを直すこと 😄
-
----
-
-🎀 **Connect with me**  
-📧 [sonya@example.com](mailto:sonya@example.com)  
-🐦 [Twitter](https://twitter.com) *(если есть)*  
-🐙 [Imran’s GitHub](https://github.com/imran-github) ← あなたの最初の読者！
-
----
+<!--
+     ██████╗  ██████╗ ██╗  ██╗██╗   ██╗██████╗ ███████╗
+    ██╔═══██╗██╔═══██╗██║ ██╔╝██║   ██║██╔══██╗██╔════╝
+    ██║   ██║██║   ██║█████╔╝ ██║   ██║██████╔╝███████╗
+    ██║   ██║██║   ██║██╔═██╗ ██║   ██║██╔══██╗╚════██║
+    ╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝██║  ██║███████║
+     ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+           S A M  N E  S V O J   D E V E L O P E R   プロフィール
+-->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonya-dev&label=PROFILE+VIEWS&color=ff69b4&style=flat" alt="profile views" />
+
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/sakura-divider.gif" width="400"/>
+
+  <h1 style="font-family: 'Hiragino Kaku Gothic Pro', sans-serif; color: #e83e8c; text-shadow: 2px 2px 0 #2c3e50;">
+    🎌 索尼の開発者 | SAMNESVOJ Developer
+  </h1>
+
+  <p style="font-size: 1.2em; color: #2c3e50; font-family: 'Yu Gothic', serif;">
+    JavaScriptの詩人。JSONの書道家。PlayStationの魂をコードで描く。
+  </p>
+
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/sony-logo-neon.gif" width="150"/>
+
 </div>
-# samnesvoj
+
+---
+
+### 🛠️ 技術スタック | Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,json,nodejs,react,git,github" />
+</p>
+
+---
+
+### 📊 GitHub 統計 | Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=omni&border_radius=10&bg_color=2c,2c3e50,e83e8c&title_color=e83e8c&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=omni&bg_color=2c,2c3e50,e83e8c&title_color=e83e8c&text_color=ffffff" />
+</p>
+
+---
+
+### 🌸 最近の活動 | Recent Activity
+
+[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@yourusername)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 📬 連絡先 | Contact
+
+<p align="center">
+  <a href="mailto:you@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/japanese-wave-divider.png" width="500"/>
+</div>
