@@ -29,7 +29,7 @@
 ### 🛠️ 技術スタック | Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,python,swift,html,css,github" />
+  <img src="https://skillicons.dev/icons?i=js,json,react,python,html,css,json,github" />
 </p>
 
 ---
