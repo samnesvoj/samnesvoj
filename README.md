@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/sakura-divider.gif" width="400"/>
 
   <h1 style="font-family: 'Hiragino Kaku Gothic Pro', sans-serif; color: #e83e8c; text-shadow: 2px 2px 0 #2c3e50;">
-    🎌 索尼の開発者 | SAMNESVOJ Developer
+    🎌 索尼の開発者 | samnesvoj Developer
   </h1>
 
   <p style="font-size: 1.2em; color: #2c3e50; font-family: 'Yu Gothic', serif;">
