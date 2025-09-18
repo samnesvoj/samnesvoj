@@ -61,6 +61,4 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/japanese-wave-divider.png" width="500"/>
-</div>
+
