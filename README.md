@@ -5,7 +5,7 @@
     ██║   ██║██║   ██║██╔═██╗ ██║   ██║██╔══██╗╚════██║
     ╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝██║  ██║███████║
      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
-           S A M  N E  S V O J   D E V E L O P E R   プロフィール
+           samnesvoj  D E V E L O P E R   プロフィール
 -->
 
 <div align="center">
@@ -37,7 +37,7 @@
 ### 📊 GitHub 統計 | Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=omni&border_radius=10&bg_color=2c,2c3e50,e83e8c&title_color=e83e8c&text_color=ffffff" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=omni&bg_color=2c,2c3e50,e83e8c&title_color=e83e8c&text_color=ffffff" />
 </p>
 
