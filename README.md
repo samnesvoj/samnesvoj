@@ -44,12 +44,6 @@
 
 </p>
 
----
-
-###  最近の活動 | Recent Activity
-
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@yourusername)
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
