@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/sakura-divider.gif" width="400"/>
 
   <h1 style="font-family: 'Hiragino Kaku Gothic Pro', sans-serif; color: #e83e8c; text-shadow: 2px 2px 0 #2c3e50;">
-    🎌 索尼の開発者 | samnesvoj Developer
+    🎌 索尼の開発者 | SAMNESVOJ Developer
   </h1>
 
   <p style="font-size: 1.2em; color: #2c3e50; font-family: 'Yu Gothic', serif;">
@@ -39,6 +39,9 @@
 <p align="center">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=omni&bg_color=2c,2c3e50,e83e8c&title_color=e83e8c&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=omni&bg_color=2c,2c3e50,e83e8c&title_color=e83e8c&text_color=ffffff" />
+</p>
+
 </p>
 
 ---
