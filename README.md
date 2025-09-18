@@ -17,7 +17,7 @@
   </h1>
 
   <p style="font-size: 1.2em; color: #2c3e50; font-family: 'Yu Gothic', serif;">
-    JavaScriptの詩人。JSONの書道家。PlayStationの魂をコードで描く。
+    JavaScript - の詩人。JSONの - 書道家。SONY - の魂をコードで描く。
   </p>
 
   <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/sony-logo-neon.gif" width="150"/>
