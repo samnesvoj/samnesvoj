@@ -7,11 +7,12 @@ from github.com/google/fonts:
     python3 scripts/make_fonts.py /path/to/google-fonts-download
 
 Expected layout of the source dir:
-    cormorantgaramond/CormorantGaramond[wght].ttf
-    cormorantgaramond/CormorantGaramond-Italic[wght].ttf
-    zenkakugothicnew/ZenKakuGothicNew-Regular.ttf
-    zenkakugothicnew/ZenKakuGothicNew-Medium.ttf
-    shipporimincho/ShipporiMincho-Medium.ttf
+    instrumentserif/InstrumentSerif-Regular.ttf
+    instrumentserif/InstrumentSerif-Italic.ttf
+    manrope/Manrope[wght].ttf
+    ibmplexmono/IBMPlexMono-Regular.ttf
+    ibmplexmono/IBMPlexMono-Medium.ttf
+    notoserifjp/NotoSerifJP[wght].ttf
 """
 
 from __future__ import annotations
@@ -27,21 +28,25 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from build_assets import JP_TEXT  # noqa: E402
 
 OUT = Path(__file__).resolve().parent / "fonts"
-LATIN = ("".join(chr(c) for c in range(0x20, 0x7F)) + "·—–’“”…↗→←×♡é«»№"
+LATIN = ("".join(chr(c) for c in range(0x20, 0x7F)) + "·—–’“”…↗→←↓×♡é«»№°"
          + "".join(chr(c) for c in range(0x400, 0x460)))  # Cyrillic
 
 FONTS = [
     # (output name, source, variable-axis instance or None)
-    ("display.ttf", "cormorantgaramond/CormorantGaramond[wght].ttf", {"wght": 600}),
-    ("display-italic.ttf", "cormorantgaramond/CormorantGaramond-Italic[wght].ttf", {"wght": 500}),
-    ("sans.ttf", "zenkakugothicnew/ZenKakuGothicNew-Regular.ttf", None),
-    ("sans-medium.ttf", "zenkakugothicnew/ZenKakuGothicNew-Medium.ttf", None),
-    ("mincho.ttf", "shipporimincho/ShipporiMincho-Medium.ttf", None),
+    ("display.ttf", "instrumentserif/InstrumentSerif-Regular.ttf", None),
+    ("display-italic.ttf", "instrumentserif/InstrumentSerif-Italic.ttf", None),
+    ("sans.ttf", "manrope/Manrope[wght].ttf", {"wght": 450}),
+    ("sans-medium.ttf", "manrope/Manrope[wght].ttf", {"wght": 600}),
+    ("mono.ttf", "ibmplexmono/IBMPlexMono-Regular.ttf", None),
+    ("mono-medium.ttf", "ibmplexmono/IBMPlexMono-Medium.ttf", None),
+    ("jp.ttf", "notoserifjp/NotoSerifJP[wght].ttf", {"wght": 450}),
 ]
 
 
 def main(src: Path) -> None:
     OUT.mkdir(exist_ok=True)
+    for old in OUT.glob("*.ttf"):
+        old.unlink()
     chars = LATIN + JP_TEXT
     for name, rel, axes in FONTS:
         tt = TTFont(src / rel)

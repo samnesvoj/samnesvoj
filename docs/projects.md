@@ -20,7 +20,7 @@ An AI video platform. You submit a long video or a link, and it returns 1080×19
   GitHub Actions.
 - **Frontend:** a vanilla JS web app and a Telegram Mini App, with a Three.js / WebGL cloth-simulation hero.
 
-## SONYA GROUP Bot — [repository](https://github.com/samnesvoj/sonya-group-bot)
+## SONYA GROUP Bot (private repository)
 
 The Telegram entry point to SONYA.
 
