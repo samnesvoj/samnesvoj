@@ -974,9 +974,7 @@ def lang_pill(code: str, name: str, active: bool, t: dict) -> str:
     return svg(w, h, "".join(b), f"{name}{' (current)' if active else ''}")
 
 
-CONTACTS = [("telegram", "@removed", "telegram", "https://t.me/removed"),
-            ("email", "removed", "email", "mailto:removed"),
-            ("github", "samnesvoj", "github", "https://github.com/samnesvoj"),
+CONTACTS = [("github", "samnesvoj", "github", "https://github.com/samnesvoj"),
             ("codewars", "ex-lain", "codewars", "https://www.codewars.com/users/ex-lain")]
 
 

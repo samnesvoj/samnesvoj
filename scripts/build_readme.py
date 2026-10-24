@@ -33,7 +33,7 @@ COPY = {
                    '<a href="https://github.com/samnesvoj/json-flow">json-flow</a>, '
                    '<a href="https://github.com/samnesvoj/cpp-bench-lab">cpp-bench-lab</a>'),
         stack_more="Open the stack — every logo links to its documentation",
-        services_more='Write on Telegram <a href="https://t.me/removed">@removed</a> or by email.',
+        services_more='Reach out through <a href="https://github.com/samnesvoj">GitHub</a>.',
         activity_more=('Projects, experiments and solutions on GitHub; programming practice on '
                        '<a href="https://www.codewars.com/users/ex-lain">Codewars</a>.'),
         cover_alt="Sonya — software engineer. Backend, AI/ML, full stack.",
@@ -47,7 +47,7 @@ COPY = {
                    '<a href="https://github.com/samnesvoj/json-flow">json-flow</a>, '
                    '<a href="https://github.com/samnesvoj/cpp-bench-lab">cpp-bench-lab</a>'),
         stack_more="Раскрыть стек — каждый логотип ведёт на документацию",
-        services_more='Пишите в Telegram <a href="https://t.me/removed">@removed</a> или на почту.',
+        services_more='Связаться можно через <a href="https://github.com/samnesvoj">GitHub</a>.',
         activity_more=('На GitHub — проекты, эксперименты и решения задач; на '
                        '<a href="https://www.codewars.com/users/ex-lain">Codewars</a> практикую алгоритмы.'),
         cover_alt="Sonya — software engineer. Backend, AI/ML, full stack.",

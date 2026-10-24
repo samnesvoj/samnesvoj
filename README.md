@@ -99,7 +99,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samnesvoj/samnesvoj/main/assets/dark/h-services.svg"><img src="assets/light/h-services.svg" width="804" alt="Commissions"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samnesvoj/samnesvoj/main/assets/dark/services.svg"><img src="assets/light/services.svg" width="804" alt="Backend & APIs: FastAPI, PostgreSQL, integrations, deployment; AI integrations: AI chats on websites, LLMs, computer vision, speech; Telegram apps: bots and Mini Apps; Custom pipelines: n8n, Python, JavaScript — data, content, publishing; Web development: sites, landing pages, Taplink pages; Google Forms in code: Apps Script, Sheets, notifications; Payments: Robokassa, YooKassa, Samozanyatye.rf"></picture>
 
-<sub>Write on Telegram <a href="https://t.me/removed">@removed</a> or by email.</sub>
+<sub>Reach out through <a href="https://github.com/samnesvoj">GitHub</a>.</sub>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samnesvoj/samnesvoj/main/assets/dark/h-studio.svg"><img src="assets/light/h-studio.svg" width="804" alt="Studio"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samnesvoj/samnesvoj/main/assets/dark/studio.svg"><img src="assets/light/studio.svg" width="804" alt="Mac mini M4 (16 GB · 256 GB); MacBook M5 (macOS); Windows PC (windows); Linux laptop (linux); Linux VMs (virtual machines); Home NAS (homelab)"></picture>
@@ -119,8 +119,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samnesvoj/samnesvoj/main/assets/dark/h-contact.svg"><img src="assets/light/h-contact.svg" width="804" alt="Contact"></picture>
 <p>
-<a href="https://t.me/removed"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samnesvoj/samnesvoj/main/assets/dark/contact-telegram.svg"><img src="assets/light/contact-telegram.svg" alt="telegram: @removed"></picture></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:removed"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samnesvoj/samnesvoj/main/assets/dark/contact-email.svg"><img src="assets/light/contact-email.svg" alt="email: removed"></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/samnesvoj"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samnesvoj/samnesvoj/main/assets/dark/contact-github.svg"><img src="assets/light/contact-github.svg" alt="github: samnesvoj"></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/ex-lain"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samnesvoj/samnesvoj/main/assets/dark/contact-codewars.svg"><img src="assets/light/contact-codewars.svg" alt="codewars: ex-lain"></picture></a>&nbsp;&nbsp;&nbsp;
 </p>

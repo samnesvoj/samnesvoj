@@ -39,6 +39,5 @@
 - **Языки:** русский, английский (B1), японский (N5).
 - **Рабочее место:** Mac mini M4 (16 ГБ RAM, 256 ГБ SSD), MacBook M5, ПК на Windows, ноутбук на Linux, виртуальные
   машины Linux и домашний NAS — macOS, Windows и Linux для разработки и экспериментов.
-- **Контакты:** Telegram [@removed](https://t.me/removed) · [removed](mailto:removed)
 
 [← к профилю](../README.ru.md) · [Заметки о проектах](projects.md)

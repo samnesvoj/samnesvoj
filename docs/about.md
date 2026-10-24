@@ -38,6 +38,5 @@ and job offers.
 - **Languages:** Russian, English (B1), Japanese (N5).
 - **Studio:** Mac mini M4 (16 GB RAM, 256 GB SSD), MacBook M5, a Windows PC, a Linux laptop, Linux virtual machines
   and a home NAS — macOS, Windows and Linux for development and experiments.
-- **Contact:** Telegram [@removed](https://t.me/removed) · [removed](mailto:removed)
 
 [← back to the profile](../README.md) · [Project notes](projects.md)
